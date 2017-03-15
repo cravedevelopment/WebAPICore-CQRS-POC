@@ -1,0 +1,14 @@
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\bin\Debug\netcoreapp1.0\appsettings.json
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\bin\Debug\netcoreapp1.0\Project.Infra.CrossCutting.Identity.deps.json
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\bin\Debug\netcoreapp1.0\Project.Infra.CrossCutting.Identity.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\bin\Debug\netcoreapp1.0\Project.Infra.CrossCutting.Identity.pdb
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\bin\Debug\netcoreapp1.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\bin\Debug\netcoreapp1.0\Project.Domain.Core.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\bin\Debug\netcoreapp1.0\Project.Domain.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\bin\Debug\netcoreapp1.0\Project.Domain.pdb
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\bin\Debug\netcoreapp1.0\Project.Domain.Core.pdb
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\bin\Debug\netcoreapp1.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\obj\Debug\netcoreapp1.0\Project.Infra.CrossCutting.Identity.csprojResolveAssemblyReference.cache
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\obj\Debug\netcoreapp1.0\Project.Infra.CrossCutting.Identity.AssemblyInfo.cs
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\obj\Debug\netcoreapp1.0\Project.Infra.CrossCutting.Identity.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Identity\obj\Debug\netcoreapp1.0\Project.Infra.CrossCutting.Identity.pdb

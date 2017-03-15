@@ -1,0 +1,6 @@
+D:\workspace\github\WebAPICore-CQRS-POC\Project.Infra\bin\Debug\netcoreapp1.0\Project.Infra.Data.deps.json
+D:\workspace\github\WebAPICore-CQRS-POC\Project.Infra\bin\Debug\netcoreapp1.0\Project.Infra.Data.dll
+D:\workspace\github\WebAPICore-CQRS-POC\Project.Infra\obj\Debug\netcoreapp1.0\Project.Infra.Data.csprojResolveAssemblyReference.cache
+D:\workspace\github\WebAPICore-CQRS-POC\Project.Infra\obj\Debug\netcoreapp1.0\Project.Infra.Data.AssemblyInfo.cs
+D:\workspace\github\WebAPICore-CQRS-POC\Project.Infra\bin\Debug\netcoreapp1.0\Microsoft.Extensions.Configuration.dll
+D:\workspace\github\WebAPICore-CQRS-POC\Project.Infra\bin\Debug\netcoreapp1.0\Microsoft.Extensions.Configuration.xml
