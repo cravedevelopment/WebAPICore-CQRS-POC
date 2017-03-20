@@ -1,0 +1,9 @@
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Domain.Core\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Domain.Core\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Domain.Core\bin\Debug\netcoreapp1.1\Project.Domain.Core.deps.json
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Domain.Core\bin\Debug\netcoreapp1.1\Project.Domain.Core.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Domain.Core\bin\Debug\netcoreapp1.1\Project.Domain.Core.pdb
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Domain.Core\obj\Debug\netcoreapp1.1\Project.Domain.Core.csprojResolveAssemblyReference.cache
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Domain.Core\obj\Debug\netcoreapp1.1\Project.Domain.Core.AssemblyInfo.cs
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Domain.Core\obj\Debug\netcoreapp1.1\Project.Domain.Core.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Domain.Core\obj\Debug\netcoreapp1.1\Project.Domain.Core.pdb

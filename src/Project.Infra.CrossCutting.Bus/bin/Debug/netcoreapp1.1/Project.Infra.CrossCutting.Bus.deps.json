@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "7bc2a4388b11cc05165c5b298eac1a8e2dc10e43"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "project.infra.crosscutting.bus/1.0.0": {
+        "dependencies": {
+          "Project.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Project.Infra.CrossCutting.Bus.dll": {}
+        }
+      },
+      "fluentvalidation/6.4.0": {
+        "runtime": {
+          "lib/netstandard1.0/FluentValidation.dll": {}
+        },
+        "resources": {
+          "lib/netstandard1.0/cs/FluentValidation.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netstandard1.0/da/FluentValidation.resources.dll": {
+            "locale": "da"
+          },
+          "lib/netstandard1.0/de/FluentValidation.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netstandard1.0/es/FluentValidation.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard1.0/fa/FluentValidation.resources.dll": {
+            "locale": "fa"
+          },
+          "lib/netstandard1.0/fi/FluentValidation.resources.dll": {
+            "locale": "fi"
+          },
+          "lib/netstandard1.0/fr/FluentValidation.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard1.0/it/FluentValidation.resources.dll": {
+            "locale": "it"
+          },
+          "lib/netstandard1.0/nl/FluentValidation.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/netstandard1.0/pl/FluentValidation.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/netstandard1.0/pt/FluentValidation.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/netstandard1.0/ru/FluentValidation.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/netstandard1.0/sv/FluentValidation.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/netstandard1.0/zh-CN/FluentValidation.resources.dll": {
+            "locale": "zh-CN"
+          }
+        }
+      },
+      "project.domain.core/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "6.4.0"
+        },
+        "runtime": {
+          "Project.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project.infra.crosscutting.bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "fluentvalidation/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8n0etuTqaKm/n7TMKVJtUDHyBt5Ms/h+jkpZsBE0hxNtimNSeWPKldOfd1ERMqYo0lsbGj3YF2OcLo6HLb9qKA==",
+      "path": "fluentvalidation/6.4.0",
+      "hashPath": "fluentvalidation.6.4.0.nupkg.sha512"
+    },
+    "project.domain.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

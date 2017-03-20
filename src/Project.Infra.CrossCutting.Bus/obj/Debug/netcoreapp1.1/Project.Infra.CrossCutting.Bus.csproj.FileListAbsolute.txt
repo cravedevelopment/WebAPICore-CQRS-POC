@@ -1,0 +1,11 @@
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\bin\Debug\netcoreapp1.1\Project.Infra.CrossCutting.Bus.deps.json
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\bin\Debug\netcoreapp1.1\Project.Infra.CrossCutting.Bus.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\bin\Debug\netcoreapp1.1\Project.Infra.CrossCutting.Bus.pdb
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\bin\Debug\netcoreapp1.1\Project.Domain.Core.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\bin\Debug\netcoreapp1.1\Project.Domain.Core.pdb
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\obj\Debug\netcoreapp1.1\Project.Infra.CrossCutting.Bus.csprojResolveAssemblyReference.cache
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\obj\Debug\netcoreapp1.1\Project.Infra.CrossCutting.Bus.AssemblyInfo.cs
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\obj\Debug\netcoreapp1.1\Project.Infra.CrossCutting.Bus.dll
+D:\workspace\github\WebAPICore-CQRS-POC\src\Project.Infra.CrossCutting.Bus\obj\Debug\netcoreapp1.1\Project.Infra.CrossCutting.Bus.pdb
